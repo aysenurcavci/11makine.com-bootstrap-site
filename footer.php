@@ -63,7 +63,7 @@
               <span>Copyright &copy; 
                 <script>
                   document.write(new Date().getFullYear())
-                </script>, Designed &amp; Developed by <a href=""></a></span>
+                </script>, Designed &amp; Developed by Ayşe Nur ÇAVCI<a href=""></a></span>
             </div>
           </div>
 

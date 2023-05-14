@@ -12,7 +12,7 @@
             <h1 class="banner-title">Hakkımızda</h1>
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb justify-content-center">
-                <li class="breadcrumb-item"><a href="index">Anasayfa</a></li>
+                <li class="breadcrumb-item"><a href="/">Anasayfa</a></li>
                 <li class="breadcrumb-item"><a href="#">Kurumsal</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Hakkımızda</li>
               </ol>

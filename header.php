@@ -95,7 +95,7 @@
           <nav class="navbar navbar-expand-lg navbar-light p-0">
 
             <div class="logo">
-              <a class="d-block" href="index">
+              <a class="d-block" href="/">
                 <img loading="lazy" src="image/logo.png">
               </a>
             </div><!-- logo end -->
@@ -106,7 +106,7 @@
             
             <div id="navbar-collapse" class="collapse navbar-collapse">
               <ul class="nav navbar-nav ml-auto align-items-center">
-                <li class="nav-item"><a class="nav-link" href="index">Ana Sayfa </a></li>
+                <li class="nav-item"><a class="nav-link" href="/">Ana Sayfa </a></li>
                 <li class="nav-item dropdown">
                   <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Kurumsal <i class="fa fa-angle-down"></i></a>
                   <ul class="dropdown-menu" role="menu">
@@ -117,20 +117,14 @@
                 <li class="nav-item dropdown">
                   <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Hizmetler <i class="fa fa-angle-down"></i></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="calisma-alanlari">Çalışma Alanları</a></li>
-                    <li class="dropdown-submenu ">
-                      <a href="calisma-alanlari" class="dropdown-toggle" data-toggle="dropdown">Projeler</a>
-                      <ul class="dropdown-menu">
-                        <li><a href="plastik-enjeksiyon">Kalıp Tasarım ve İmalat</a></li>
-                        <li><a href="tersine-muhendislik">Tersine Mühendislik </a></li>
-                        <li><a href="ortopedik-cerrahi">Ortopedik Cerrahi - Medikal </a></li>
-                        <li><a href="celik-konstruksiyon">Çelik Konstrüksiyon </a></li>
-                        <li><a href="mekanik-tesisat">Mekanik Tesisat </a></li>
-                        <li><a href="sondurme">Söndürme (Yangın Tesisat) </a></li>
-                        <li><a href="makine-ve-tesis-kurulum">Makine ve Tesis Kurulum </a></li>
-                        <li><a href="otonom">Otonom ve Planlı Bakım Onarım</a></li>
-                      </ul>
-                    </li>
+                    <li><a class="new">Plastik Enjeksiyon Kalıp Tasarım ve İmalatt</a></li>
+                    <li><a class="new">Talaşlı İmalat</a></li>
+                    <li><a class="new">Ortopedik Cerrahi - Medikal </a></li>
+                    <li><a class="new">Çelik Konstrüksiyon </a></li>
+                    <li><a class="new">Mekanik Tesisat </a></li>
+                    <li><a class="new">Söndürme (Yangın Tesisat) </a></li>
+                    <li><a class="new">Makine ve Tesis Kurulum </a></li>
+                    <li><a class="new">Otonom ve Planlı Bakım Onarım</a></li>
                   </ul>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="referanslar">Referanslar</a></li>

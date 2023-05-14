@@ -13,7 +13,7 @@
             <h1 class="banner-title">Bizimle İletişime Geçin</h1>
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb justify-content-center">
-                <li class="breadcrumb-item"><a href="index">Anasayfa</a></li>
+                <li class="breadcrumb-item"><a href="/">Anasayfa</a></li>
                 <li class="breadcrumb-item active" aria-current="page">İletişim</li>
               </ol>
             </nav>
@@ -26,13 +26,7 @@
 
 <section id="main-container" class="main-container">
   <div class="container">
-    <div class="row text-center">
-      <div class="col-12">
-        <h2 class="section-title"></h2>
-        <h3 class="section-sub-title">Bizimle Görüşün</h3>
-      </div>
-    </div><!--/ Title row end -->
-
+    
     <div class="row">
       <div class="col-md-4">
         <div class="ts-service-box-bg text-center h-100">

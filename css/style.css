@@ -24,6 +24,10 @@ p {
   font-size: 15px;
 }
 
+.new{
+  color:#fb901d ;   
+}
+
 h1,
 h2,
 h3,
@@ -1045,6 +1049,10 @@ ul.navbar-nav > li > a {
   background: none;
 }
 
+.navbar-nav > li > .dropdown-menu .new:hover {
+  color:#fb901d !important;
+}
+
 .dropdown-menu li a {
   font-family: "Montserrat", sans-serif;
   display: block;
@@ -2032,6 +2040,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   a:hover {
   color: #fb901d;
 }
+
 
 .shuffle-item .project-img-container .project-item-info-content .project-cat {
   background: #fb901d;

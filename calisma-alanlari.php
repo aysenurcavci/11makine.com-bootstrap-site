@@ -13,7 +13,7 @@
                 <h1 class="banner-title">Çalışma Alanları</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center">
-                      <li class="breadcrumb-item"><a href="index">Anasayfa</a></li>
+                      <li class="breadcrumb-item"><a href="/">Anasayfa</a></li>
                       <li class="breadcrumb-item"><a href="working-area">Çalışma Alanları</a></li>
                     </ol>
                 </nav>
